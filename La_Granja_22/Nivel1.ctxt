@@ -3,5 +3,5 @@ comment0.params=
 comment0.target=Nivel1()
 comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
 comment1.params=
-comment1.target=void\ preparate()
+comment1.target=void\ inicia()
 numComments=2
