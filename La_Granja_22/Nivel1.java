@@ -16,6 +16,13 @@ public class Nivel1 extends World
     public Nivel1()
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
-        super(600, 400, 1); 
+        super(900, 600, 1);
+        preparate();
     }
+    void preparate()
+    {
+        Granjero j1= new Granjero();
+        addObject(j1,200,200);
+    }
+    
 }
