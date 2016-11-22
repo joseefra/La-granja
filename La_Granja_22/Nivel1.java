@@ -23,6 +23,8 @@ public class Nivel1 extends World
     {
     Granjero j1 = new Granjero();
     addObject(j1,200,200);
+    Bicho1 b1 = new Bicho1();
+    addObject(b1,300,300);
     }
     
     
